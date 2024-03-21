@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Monokai",
+    "workbench.preferredHighContrastColorTheme": "Kimbie Dark",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Light",
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {}
+    }
+}
